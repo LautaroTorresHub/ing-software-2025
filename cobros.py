@@ -5,7 +5,7 @@ from datetime import datetime
 from fpdf import FPDF
 
 entregados_file = "entregados.json"
-pdf_output_path = "."  # Carpeta donde se guardan los PDFs
+pdf_output_path = "."  "Carpeta donde se guardan los PDFs"
 
 
 def cargar_entregados():
